@@ -50,16 +50,10 @@
     <property name="title">
      <string>Server</string>
     </property>
-    <addaction name="actionDisconnect"/>
    </widget>
    <addaction name="menuServer"/>
   </widget>
   <widget class="QStatusBar" name="statusbar"/>
-  <action name="actionDisconnect">
-   <property name="text">
-    <string>Disconnect</string>
-   </property>
-  </action>
  </widget>
  <resources/>
  <connections/>
